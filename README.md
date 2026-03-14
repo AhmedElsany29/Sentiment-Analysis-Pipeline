@@ -1,5 +1,5 @@
 # Sentiment Analysis Pipeline
-
+Below the tree is a complete explanation covering dependencies, usage, metrics, and architecture so anyone cloning this repo can reproduce training and serve the resulting model.
 ```
 sentiment-analysis-project/
 │
@@ -37,8 +37,6 @@ sentiment-analysis-project/
 ├── requirements.txt
 └── README.md
 ```
-
-Below the tree is a complete explanation covering dependencies, usage, metrics, and architecture so anyone cloning this repo can reproduce training and serve the resulting model.
 
 ## ⚙️ Requirements
 1. Create a Python environment (Conda or `venv`).
